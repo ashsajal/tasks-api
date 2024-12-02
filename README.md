@@ -22,7 +22,7 @@ The infrastructure is defined using AWS CDK and includes:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/tasks-api.git
+    git clone https://github.com/ashsajal/tasks-api.git
     cd tasks-api
     ```
 
